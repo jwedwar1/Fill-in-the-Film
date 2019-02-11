@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#090909"
+    android:gravity="center"
+    tools:context="com.example.james.quizprototype.endscreen">
+
+
+    <TextView
+        android:id="@+id/gameover"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="game over"
+        android:textColor="#FFFDFD"
+        android:textSize="50dp"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/score2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingRight="20dp"
+        android:text="Correct:"
+        android:textColor="#FFFFFFFF"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingRight="20dp"
+        android:textColor="#FFFFFFFF"
+        android:textSize="20sp" />
+
+
+
+    <TextView
+        android:id="@+id/wrong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingRight="20dp"
+        android:text="Incorrect:"
+        android:textColor="#FFFFFFFF"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/wrong_score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingRight="20dp"
+        android:textColor="#FFFFFFFF"
+        android:textSize="20sp" />
+
+
+    <Button
+        android:id="@+id/play_again"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:onClick="OnRepeatClick"
+        android:padding="10dp"
+        android:text="Play Again" />
+
+</LinearLayout>
+
+
+

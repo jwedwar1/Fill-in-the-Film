@@ -1,0 +1,108 @@
+<resources>
+    <string-array name="Questions">
+        <item>alien</item>
+        <item>amadeus</item>
+        <item>animal house</item>
+        <item>apocalypse now</item>
+        <item>apocalypto</item>
+        <item>back to the future</item>
+        <item>back to the future II</item>
+        <item>back to the future III</item>
+        <item>beetlejuice</item>
+        <item>blade runner</item>
+        <item>brazil</item>
+        <item>candyman</item>
+        <item>dark city</item>
+        <item>diamonds are forever</item>
+        <item>dirty harry</item>
+        <item>dirty rotten scoundrels</item>
+        <item>dogma</item>
+        <item>drag me to hell</item>
+        <item>enemy</item>
+        <item>enter the dragon</item>
+        <item>escape from new york</item>
+        <item>fear and loathing in las vegas</item>
+        <item>gremlins</item>
+        <item>halloween II</item>
+        <item>hook</item>
+        <item>indiana jones and the last crusade</item>
+        <item>indiana jones and the temple of doom</item>
+        <item>inglorious basterds</item>
+        <item>inherent vice</item>
+        <item>interstellar</item>
+        <item>it follows</item>
+        <item>jaws</item>
+        <item>killer klowns from outer space</item>
+        <item>labyrinth</item>
+        <item>last action hero</item>
+        <item>legend</item>
+        <item>leon</item>
+        <item>live and let die</item>
+        <item>mad max beyond thunderdome</item>
+        <item>masters of the universe</item>
+        <item>moonraker</item>
+        <item>raiders of the lost ark</item>
+        <item>the bodyguard</item>
+        <item>the exorcist</item>
+        <item>the fog</item>
+        <item>the frightners</item>
+        <item>the godfather</item>
+        <item>the goonies</item>
+        <item>the grand budapest hotel</item>
+        <item>big trouble in little china</item>
+    </string-array>
+    <string-array name="Answers">
+        <item>alien</item>
+        <item>amadeus</item>
+        <item>animal house</item>
+        <item>apocalypse now</item>
+        <item>apocalypto</item>
+        <item>back to the future</item>
+        <item>back to the future II</item>
+        <item>back to the future III</item>
+        <item>beetlejuice</item>
+        <item>blade runner</item>
+        <item>brazil</item>
+        <item>candyman</item>
+        <item>dark city</item>
+        <item>diamonds are forever</item>
+        <item>dirty harry</item>
+        <item>dirty rotten scoundrels</item>
+        <item>dogma</item>
+        <item>drag me to hell</item>
+        <item>enemy</item>
+        <item>enter the dragon</item>
+        <item>escape from new york</item>
+        <item>fear and loathing in las vegas</item>
+        <item>gremlins</item>
+        <item>halloween II</item>
+        <item>hook</item>
+        <item>indiana jones and the last crusade</item>
+        <item>indiana jones and the temple of doom</item>
+        <item>inglorious basterds</item>
+        <item>inherent vice</item>
+        <item>interstellar</item>
+        <item>it follows</item>
+        <item>jaws</item>
+        <item>killer klowns from outer space</item>
+        <item>labyrinth</item>
+        <item>last action hero</item>
+        <item>legend</item>
+        <item>leon</item>
+        <item>live and let die</item>
+        <item>mad max beyond thunderdome</item>
+        <item>masters of the universe</item>
+        <item>moonraker</item>
+        <item>raiders of the lost ark</item>
+        <item>the bodyguard</item>
+        <item>the exorcist</item>
+        <item>the fog</item>
+        <item>the frightners</item>
+        <item>the godfather</item>
+        <item>the goonies</item>
+        <item>the grand budapest hotel</item>
+        <item>big trouble in little china</item>
+    </string-array>
+    <string name="app_name">Fill in the Film</string>
+    <string name="H1">Lazy Sunday</string>
+</resources>
